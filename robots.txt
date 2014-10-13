@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://saythink.github.io/sitemap.xml 
